@@ -1,5 +1,5 @@
 # PLYte
-A simple test meant to mass edit .ply data meant for Gaussian splats.  Make sure your .ply files are in the same directory. 
+A simple test meant to mass edit .ply data meant for Gaussian splats.  Make sure your .ply files are in the same directory. Please note that this is an experiment and will not yet produce realistic results or allow fine tuning.
 
 <b>Installation Steps</b>
 1) Download the reposity.
